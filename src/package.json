@@ -1,0 +1,19 @@
+{
+  "name": "TreeView with Search Bar - DevExtreme Tree View",
+  "description": "This demo demonstrates the TreeView component’s searching capabilities. The component can find nodes containing your search string or only starting with it depending on the search mode.\n",
+  "dependencies": {
+    "rrule": "2.6.6",
+    "react-dom": "16.14.0",
+    "react": "16.14.0",
+    "prop-types": "15.7.2",
+    "preact": "10.5.13",
+    "luxon": "1.26.0",
+    "jszip": "3.6.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "20.2.7",
+    "devextreme-quill": "0.10.3",
+    "devextreme": "20.2.7",
+    "devexpress-gantt": "2.0.29",
+    "devexpress-diagram": "2.0.23"
+  }
+}
